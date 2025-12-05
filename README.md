@@ -1,1 +1,1 @@
-# circle-grid-pattern-generator
+# Grid Pattern Generator
